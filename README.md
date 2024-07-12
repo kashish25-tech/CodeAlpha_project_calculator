@@ -1,4 +1,4 @@
 # Project_calculator
-this is my first git repository.
+This is my first Project.
 <br>
-author-kash
+author-kashish
