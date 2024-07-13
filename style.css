@@ -1,0 +1,25 @@
+body{
+  font-family:arial,sans-serif;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height: 100vh;
+  margin:0;
+}
+.calculator {
+  background-color: cadetblue;
+  border: 2px solid #333;
+  border-radius: 5px;
+  padding: 20px;
+}
+.keys {
+  background-color: aquamarine;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px;
+}
+button {
+  border-color: blue;
+  padding: 10px;
+  font-size: 20px;
+}
